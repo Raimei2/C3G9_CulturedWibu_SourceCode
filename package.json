@@ -14,7 +14,7 @@
     "convex": "^1.29.3",
     "leaflet": "^1.9.4",
     "leaflet.heat": "^0.2.0",
-    "lightningcss": "^1.25.1",
+    "lightningcss": "^1.30.2",
     "nanoid": "^5.1.6",
     "next": "16.0.5",
     "openai": "^6.9.1",
